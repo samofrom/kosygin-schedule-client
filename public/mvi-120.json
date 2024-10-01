@@ -1,0 +1,846 @@
+[
+  {
+    "location": "В понедельник занятия проходят на учебной площадке № 2 ( м. Шаболовская)",
+    "dayOfWeek": "ПН",
+    "odd": [
+      {
+        "lessonNumber": 1,
+        "time": "9:15-09:55",
+        "classroom": 1223,
+        "lessonType": "Лек",
+        "teacher": "Беспалов М.Е.",
+        "lesson": "Модели и методы анализа задач логистики"
+      },
+      {
+        "lessonNumber": 1,
+        "time": "9:55-10:35",
+        "classroom": 1223,
+        "lessonType": "Лек",
+        "teacher": "Беспалов М.Е.",
+        "lesson": "Модели и методы анализа задач логистики"
+      },
+      {
+        "lessonNumber": 2,
+        "time": "10:50-11:30",
+        "classroom": 1223,
+        "lessonType": "Лаб",
+        "teacher": "Беспалов М.Е.",
+        "lesson": "Модели и методы анализа задач логистики"
+      },
+      {
+        "lessonNumber": 2,
+        "time": "11:30-12:10",
+        "classroom": 1223,
+        "lessonType": "Лаб",
+        "teacher": "Беспалов М.Е.",
+        "lesson": "Модели и методы анализа задач логистики"
+      },
+      {
+        "lessonNumber": 3,
+        "time": "12:25-13:05",
+        "classroom": 1223,
+        "lessonType": "Лаб",
+        "teacher": "Беспалов М.Е.\r\nВетрова О.А.",
+        "lesson": "ЭВМ и периферийные устройства"
+      },
+      {
+        "lessonNumber": 3,
+        "time": "13:05-13:45",
+        "classroom": 1223,
+        "lessonType": "Лаб",
+        "teacher": "Беспалов М.Е.\r\nВетрова О.А.",
+        "lesson": "ЭВМ и периферийные устройства"
+      },
+      {
+        "lessonNumber": 4,
+        "time": "14:25-15:05"
+      },
+      {
+        "lessonNumber": 4,
+        "time": "15:05-15:45"
+      },
+      {
+        "lessonNumber": 5,
+        "time": "16:05-16:45"
+      },
+      {
+        "lessonNumber": 5,
+        "time": "16:45-17:25"
+      },
+      {
+        "lessonNumber": 6,
+        "time": "17:40-18:20"
+      },
+      {
+        "lessonNumber": 6,
+        "time": "18:20-19:00"
+      }
+    ],
+    "even": [
+      {
+        "lessonNumber": 1,
+        "time": "9:15-09:55",
+        "classroom": 6312,
+        "lessonType": "Лаб",
+        "teacher": "Цинцадзе М.З.",
+        "lesson": "Безопасность жизнедеятельности"
+      },
+      {
+        "lessonNumber": 1,
+        "time": "9:55-10:35",
+        "classroom": 6312,
+        "lessonType": "Лаб",
+        "teacher": "Цинцадзе М.З.",
+        "lesson": "Безопасность жизнедеятельности"
+      },
+      {
+        "lessonNumber": 2,
+        "time": "10:50-11:30",
+        "classroom": 6312,
+        "lessonType": "Пр",
+        "teacher": "Цинцадзе М.З.",
+        "lesson": "Безопасность жизнедеятельности"
+      },
+      {
+        "lessonNumber": 2,
+        "time": "11:30-12:10",
+        "classroom": 6312,
+        "lessonType": "Пр",
+        "teacher": "Цинцадзе М.З.",
+        "lesson": "Безопасность жизнедеятельности"
+      },
+      {
+        "lessonNumber": 3,
+        "time": "12:25-13:05",
+        "classroom": 1223,
+        "lessonType": "Лаб",
+        "teacher": "Беспалов М.Е.\r\nВетрова О.А.",
+        "lesson": "ЭВМ и периферийные устройства"
+      },
+      {
+        "lessonNumber": 3,
+        "time": "13:05-13:45",
+        "classroom": 1223,
+        "lessonType": "Лаб",
+        "teacher": "Беспалов М.Е.\r\nВетрова О.А.",
+        "lesson": "ЭВМ и периферийные устройства"
+      },
+      {
+        "lessonNumber": 4,
+        "time": "14:25-15:05",
+        "classroom": 1223,
+        "lessonType": "Лек",
+        "teacher": "Беспалов М.Е.",
+        "lesson": "Модели и методы анализа задач логистики"
+      },
+      {
+        "lessonNumber": 4,
+        "time": "15:05-15:45",
+        "classroom": 1223,
+        "lessonType": "Лек",
+        "teacher": "Беспалов М.Е.",
+        "lesson": "Модели и методы анализа задач логистики"
+      },
+      {
+        "lessonNumber": 5,
+        "time": "16:05-16:45",
+        "classroom": 1223,
+        "lessonType": "Лаб",
+        "teacher": "Беспалов М.Е.",
+        "lesson": "Модели и методы анализа задач логистики"
+      },
+      {
+        "lessonNumber": 5,
+        "time": "16:45-17:25",
+        "classroom": 1223,
+        "lessonType": "Лаб",
+        "teacher": "Беспалов М.Е.",
+        "lesson": "Модели и методы анализа задач логистики"
+      },
+      {
+        "lessonNumber": 6,
+        "time": "17:40-18:20"
+      },
+      {
+        "lessonNumber": 6,
+        "time": "18:20-19:00"
+      }
+    ]
+  },
+  {
+    "location": "Во вторник занятия проходят на учебной площадке № 2 ( м. Шаболовская)",
+    "dayOfWeek": "ВТ",
+    "odd": [
+      {
+        "lessonNumber": 1,
+        "time": "9:15-09:55",
+        "classroom": "дист",
+        "lessonType": "Лек",
+        "teacher": "Беспалов М.Е.",
+        "lesson": "ЭВМ и периферийные устройства"
+      },
+      {
+        "lessonNumber": 1,
+        "time": "9:55-10:35",
+        "classroom": "дист",
+        "lessonType": "Лек",
+        "teacher": "Беспалов М.Е.",
+        "lesson": "ЭВМ и периферийные устройства"
+      },
+      {
+        "lessonNumber": 2,
+        "time": "10:50-11:30",
+        "classroom": "дист",
+        "lessonType": "Лек",
+        "teacher": "Поляков А.Е.",
+        "lesson": "Электроника"
+      },
+      {
+        "lessonNumber": 2,
+        "time": "11:30-12:10",
+        "classroom": "дист",
+        "lessonType": "Лек",
+        "teacher": "Поляков А.Е.",
+        "lesson": "Электроника"
+      },
+      {
+        "lessonNumber": 3,
+        "time": "12:25-13:05",
+        "classroom": "дист",
+        "lessonType": "Лек",
+        "teacher": "Кузьмина Т.М.",
+        "lesson": "Дискретная математика"
+      },
+      {
+        "lessonNumber": 3,
+        "time": "13:05-13:45",
+        "classroom": "дист",
+        "lessonType": "Лек",
+        "teacher": "Кузьмина Т.М.",
+        "lesson": "Дискретная математика"
+      },
+      {
+        "lessonNumber": 4,
+        "time": "14:25-15:05"
+      },
+      {
+        "lessonNumber": 4,
+        "time": "15:05-15:45"
+      },
+      {
+        "lessonNumber": 5,
+        "time": "16:05-16:45"
+      },
+      {
+        "lessonNumber": 5,
+        "time": "16:45-17:25"
+      },
+      {
+        "lessonNumber": 6,
+        "time": "17:40-18:20"
+      },
+      {
+        "lessonNumber": 6,
+        "time": "18:20-19:00"
+      }
+    ],
+    "even": [
+      {
+        "lessonNumber": 1,
+        "time": "9:15-09:55",
+        "classroom": "дист",
+        "lessonType": "Лек",
+        "teacher": "Беспалов М.Е.",
+        "lesson": "ЭВМ и периферийные устройства"
+      },
+      {
+        "lessonNumber": 1,
+        "time": "9:55-10:35",
+        "classroom": "дист",
+        "lessonType": "Лек",
+        "teacher": "Беспалов М.Е.",
+        "lesson": "ЭВМ и периферийные устройства"
+      },
+      {
+        "lessonNumber": 2,
+        "time": "10:50-11:30",
+        "classroom": "дист",
+        "lessonType": "Лек",
+        "teacher": "Поляков А.Е.",
+        "lesson": "Электроника"
+      },
+      {
+        "lessonNumber": 2,
+        "time": "11:30-12:10",
+        "classroom": "дист",
+        "lessonType": "Лек",
+        "teacher": "Поляков А.Е.",
+        "lesson": "Электроника"
+      },
+      {
+        "lessonNumber": 3,
+        "time": "12:25-13:05",
+        "classroom": "дист",
+        "lessonType": "Лек",
+        "teacher": "Кузьмина Т.М.",
+        "lesson": "Дискретная математика"
+      },
+      {
+        "lessonNumber": 3,
+        "time": "13:05-13:45",
+        "classroom": "дист",
+        "lessonType": "Лек",
+        "teacher": "Кузьмина Т.М.",
+        "lesson": "Дискретная математика"
+      },
+      {
+        "lessonNumber": 4,
+        "time": "14:25-15:05",
+        "classroom": "дист",
+        "lessonType": "Лек",
+        "teacher": "Апарушкина М.А.",
+        "lesson": "Безопасность жизнедеятельности"
+      },
+      {
+        "lessonNumber": 4,
+        "time": "15:05-15:45",
+        "classroom": "дист",
+        "lessonType": "Лек",
+        "teacher": "Апарушкина М.А.",
+        "lesson": "Безопасность жизнедеятельности"
+      },
+      {
+        "lessonNumber": 5,
+        "time": "16:05-16:45"
+      },
+      {
+        "lessonNumber": 5,
+        "time": "16:45-17:25"
+      },
+      {
+        "lessonNumber": 6,
+        "time": "17:40-18:20"
+      },
+      {
+        "lessonNumber": 6,
+        "time": "18:20-19:00"
+      }
+    ]
+  },
+  {
+    "location": "В среду занятия проходят на учебной площадке № 2 ( м. Шаболовская)",
+    "dayOfWeek": "СР",
+    "odd": [
+      {
+        "lessonNumber": 1,
+        "time": "9:15-09:55"
+      },
+      {
+        "lessonNumber": 1,
+        "time": "9:55-10:35",
+        "classroom": 1818,
+        "lessonType": "Лек",
+        "teacher": "Кузьмина Т.М.",
+        "lesson": "Лингвистическое и информационное обеспечение систем логистики"
+      },
+      {
+        "lessonNumber": 2,
+        "time": "10:50-11:30",
+        "classroom": 1818,
+        "lessonType": "Лек",
+        "teacher": "Кузьмина Т.М.",
+        "lesson": "Лингвистическое и информационное обеспечение систем логистики"
+      },
+      {
+        "lessonNumber": 2,
+        "time": "11:30-12:10",
+        "classroom": 1818,
+        "lessonType": "Лаб",
+        "teacher": "Кузьмина Т.М.\r\nВетрова О.А.",
+        "lesson": "Лингвистическое и информационное обеспечение систем логистики"
+      },
+      {
+        "lessonNumber": 3,
+        "time": "12:25-13:05",
+        "classroom": 1818,
+        "lessonType": "Лаб",
+        "teacher": "Кузьмина Т.М.\r\nВетрова О.А.",
+        "lesson": "Лингвистическое и информационное обеспечение систем логистики"
+      },
+      {
+        "lessonNumber": 3,
+        "time": "13:05-13:45",
+        "classroom": 1818,
+        "lessonType": "Лаб",
+        "teacher": "Кузьмина Т.М.\r\nВетрова О.А.",
+        "lesson": "Лингвистическое и информационное обеспечение систем логистики"
+      },
+      {
+        "lessonNumber": 4,
+        "time": "14:25-15:05",
+        "classroom": 1228,
+        "lessonType": "Пр",
+        "teacher": "Кузьмина Т.М.",
+        "lesson": "Дискретная математика"
+      },
+      {
+        "lessonNumber": 4,
+        "time": "15:05-15:45",
+        "classroom": 1228,
+        "lessonType": "Пр",
+        "teacher": "Кузьмина Т.М.",
+        "lesson": "Дискретная математика"
+      },
+      {
+        "lessonNumber": 5,
+        "time": "16:05-16:45",
+        "classroom": "сп. зал",
+        "lessonType": "пр",
+        "teacher": "преп. каф. физ.культ.",
+        "lesson": "Элективные дисциплины по физической культуре и спорту"
+      },
+      {
+        "lessonNumber": 5,
+        "time": "16:45-17:25",
+        "classroom": "сп. зал",
+        "lessonType": "пр",
+        "teacher": "преп. каф. физ.культ.",
+        "lesson": "Элективные дисциплины по физической культуре и спорту"
+      },
+      {
+        "lessonNumber": 6,
+        "time": "17:40-18:20"
+      },
+      {
+        "lessonNumber": 6,
+        "time": "18:20-19:00"
+      }
+    ],
+    "even": [
+      {
+        "lessonNumber": 1,
+        "time": "9:15-09:55"
+      },
+      {
+        "lessonNumber": 1,
+        "time": "9:55-10:35",
+        "classroom": 1818,
+        "lessonType": "Лаб",
+        "teacher": "Кузьмина Т.М.\r\nВетрова О.А.",
+        "lesson": "Дискретная математика"
+      },
+      {
+        "lessonNumber": 2,
+        "time": "10:50-11:30",
+        "classroom": 1818,
+        "lessonType": "Лаб",
+        "teacher": "Кузьмина Т.М.\r\nВетрова О.А.",
+        "lesson": "Дискретная математика"
+      },
+      {
+        "lessonNumber": 2,
+        "time": "11:30-12:10",
+        "classroom": 1818,
+        "lessonType": "Лаб",
+        "teacher": "Кузьмина Т.М.\r\nВетрова О.А.",
+        "lesson": "Лингвистическое и информационное обеспечение систем логистики"
+      },
+      {
+        "lessonNumber": 3,
+        "time": "12:25-13:05",
+        "classroom": 1818,
+        "lessonType": "Лаб",
+        "teacher": "Кузьмина Т.М.\r\nВетрова О.А.",
+        "lesson": "Лингвистическое и информационное обеспечение систем логистики"
+      },
+      {
+        "lessonNumber": 3,
+        "time": "13:05-13:45",
+        "classroom": 1818,
+        "lessonType": "Лаб",
+        "teacher": "Кузьмина Т.М.\r\nВетрова О.А.",
+        "lesson": "Лингвистическое и информационное обеспечение систем логистики"
+      },
+      {
+        "lessonNumber": 4,
+        "time": "14:25-15:05",
+        "classroom": 1814,
+        "lessonType": "Лаб",
+        "teacher": "Поляков А.Е.\r\nФрасын П.Г.",
+        "lesson": "Электроника"
+      },
+      {
+        "lessonNumber": 4,
+        "time": "15:05-15:45",
+        "classroom": 1814,
+        "lessonType": "Лаб",
+        "teacher": "Поляков А.Е.\r\nФрасын П.Г.",
+        "lesson": "Электроника"
+      },
+      {
+        "lessonNumber": 5,
+        "time": "16:05-16:45",
+        "classroom": "сп. зал",
+        "lessonType": "пр",
+        "teacher": "преп. каф. физ.культ.",
+        "lesson": "Элективные дисциплины по физической культуре и спорту"
+      },
+      {
+        "lessonNumber": 5,
+        "time": "16:45-17:25",
+        "classroom": "сп. зал",
+        "lessonType": "пр",
+        "teacher": "преп. каф. физ.культ.",
+        "lesson": "Элективные дисциплины по физической культуре и спорту"
+      },
+      {
+        "lessonNumber": 6,
+        "time": "17:40-18:20"
+      },
+      {
+        "lessonNumber": 6,
+        "time": "18:20-19:00"
+      }
+    ]
+  },
+  {
+    "location": "В четверг занятия проходят на учебной площадке № 2 ( м. Шаболовская)",
+    "dayOfWeek": "ЧТ",
+    "odd": [
+      {
+        "lessonNumber": 1,
+        "time": "9:15-09:55",
+        "lesson": "Майнор *(см. вкладку) "
+      },
+      {
+        "lessonNumber": 1,
+        "time": "9:55-10:35",
+        "lesson": "Майнор *(см. вкладку) "
+      },
+      {
+        "lessonNumber": 2,
+        "time": "10:50-11:30",
+        "lesson": "Майнор *(см. вкладку) "
+      },
+      {
+        "lessonNumber": 2,
+        "time": "11:30-12:10",
+        "lesson": "Майнор *(см. вкладку) "
+      },
+      {
+        "lessonNumber": 3,
+        "time": "12:25-13:05",
+        "lesson": "Майнор *(см. вкладку) "
+      },
+      {
+        "lessonNumber": 3,
+        "time": "13:05-13:45",
+        "lesson": "Майнор *(см. вкладку) "
+      },
+      {
+        "lessonNumber": 4,
+        "time": "14:25-15:05"
+      },
+      {
+        "lessonNumber": 4,
+        "time": "15:05-15:45"
+      },
+      {
+        "lessonNumber": 5,
+        "time": "16:05-16:45"
+      },
+      {
+        "lessonNumber": 5,
+        "time": "16:45-17:25"
+      },
+      {
+        "lessonNumber": 6,
+        "time": "17:40-18:20"
+      },
+      {
+        "lessonNumber": 6,
+        "time": "18:20-19:00"
+      }
+    ],
+    "even": [
+      {
+        "lessonNumber": 1,
+        "time": "9:15-09:55",
+        "lesson": "Майнор *(см. вкладку) "
+      },
+      {
+        "lessonNumber": 1,
+        "time": "9:55-10:35",
+        "lesson": "Майнор *(см. вкладку) "
+      },
+      {
+        "lessonNumber": 2,
+        "time": "10:50-11:30",
+        "lesson": "Майнор *(см. вкладку) "
+      },
+      {
+        "lessonNumber": 2,
+        "time": "11:30-12:10",
+        "lesson": "Майнор *(см. вкладку) "
+      },
+      {
+        "lessonNumber": 3,
+        "time": "12:25-13:05",
+        "lesson": "Майнор *(см. вкладку) "
+      },
+      {
+        "lessonNumber": 3,
+        "time": "13:05-13:45",
+        "lesson": "Майнор *(см. вкладку) "
+      },
+      {
+        "lessonNumber": 4,
+        "time": "14:25-15:05"
+      },
+      {
+        "lessonNumber": 4,
+        "time": "15:05-15:45"
+      },
+      {
+        "lessonNumber": 5,
+        "time": "16:05-16:45"
+      },
+      {
+        "lessonNumber": 5,
+        "time": "16:45-17:25"
+      },
+      {
+        "lessonNumber": 6,
+        "time": "17:40-18:20"
+      },
+      {
+        "lessonNumber": 6,
+        "time": "18:20-19:00"
+      }
+    ]
+  },
+  {
+    "location": "В пятницу занятия проходят на учебной площадке № 2 ( м. Шаболовская)",
+    "dayOfWeek": "ПТ",
+    "odd": [
+      {
+        "lessonNumber": 1,
+        "time": "9:15-09:55"
+      },
+      {
+        "lessonNumber": 1,
+        "time": "9:55-10:35"
+      },
+      {
+        "lessonNumber": 2,
+        "time": "10:50-11:30",
+        "classroom": 1802,
+        "lessonType": "Лек",
+        "teacher": "Годунов М.В.",
+        "lesson": "Основы автоматического управления"
+      },
+      {
+        "lessonNumber": 2,
+        "time": "11:30-12:10",
+        "classroom": 1802,
+        "lessonType": "Лек",
+        "teacher": "Годунов М.В.",
+        "lesson": "Основы автоматического управления"
+      },
+      {
+        "lessonNumber": 3,
+        "time": "12:25-13:05",
+        "classroom": 1802,
+        "lessonType": "Пр",
+        "teacher": "Годунов М.В.",
+        "lesson": "Основы автоматического управления"
+      },
+      {
+        "lessonNumber": 3,
+        "time": "13:05-13:45",
+        "classroom": 1802,
+        "lessonType": "Пр",
+        "teacher": "Годунов М.В.",
+        "lesson": "Основы автоматического управления"
+      },
+      {
+        "lessonNumber": 4,
+        "time": "14:25-15:05"
+      },
+      {
+        "lessonNumber": 4,
+        "time": "15:05-15:45"
+      },
+      {
+        "lessonNumber": 5,
+        "time": "16:05-16:45"
+      },
+      {
+        "lessonNumber": 5,
+        "time": "16:45-17:25"
+      },
+      {
+        "lessonNumber": 6,
+        "time": "17:40-18:20"
+      },
+      {
+        "lessonNumber": 6,
+        "time": "18:20-19:00"
+      }
+    ],
+    "even": [
+      {
+        "lessonNumber": 1,
+        "time": "9:15-09:55"
+      },
+      {
+        "lessonNumber": 1,
+        "time": "9:55-10:35"
+      },
+      {
+        "lessonNumber": 2,
+        "time": "10:50-11:30"
+      },
+      {
+        "lessonNumber": 2,
+        "time": "11:30-12:10"
+      },
+      {
+        "lessonNumber": 3,
+        "time": "12:25-13:05"
+      },
+      {
+        "lessonNumber": 3,
+        "time": "13:05-13:45"
+      },
+      {
+        "lessonNumber": 4,
+        "time": "14:25-15:05"
+      },
+      {
+        "lessonNumber": 4,
+        "time": "15:05-15:45"
+      },
+      {
+        "lessonNumber": 5,
+        "time": "16:05-16:45"
+      },
+      {
+        "lessonNumber": 5,
+        "time": "16:45-17:25"
+      },
+      {
+        "lessonNumber": 6,
+        "time": "17:40-18:20"
+      },
+      {
+        "lessonNumber": 6,
+        "time": "18:20-19:00"
+      }
+    ]
+  },
+  {
+    "location": "В субботу занятия проходят на учебной площадке № 2 ( м. Шаболовская)",
+    "dayOfWeek": "СБ",
+    "odd": [
+      {
+        "lessonNumber": 1,
+        "time": "9:15-09:55"
+      },
+      {
+        "lessonNumber": 1,
+        "time": "9:55-10:35"
+      },
+      {
+        "lessonNumber": 2,
+        "time": "10:50-11:30"
+      },
+      {
+        "lessonNumber": 2,
+        "time": "11:30-12:10"
+      },
+      {
+        "lessonNumber": 3,
+        "time": "12:25-13:05"
+      },
+      {
+        "lessonNumber": 3,
+        "time": "13:05-13:45"
+      },
+      {
+        "lessonNumber": 4,
+        "time": "14:25-15:05"
+      },
+      {
+        "lessonNumber": 4,
+        "time": "15:05-15:45"
+      },
+      {
+        "lessonNumber": 5,
+        "time": "16:05-16:45"
+      },
+      {
+        "lessonNumber": 5,
+        "time": "16:45-17:25"
+      },
+      {
+        "lessonNumber": 6,
+        "time": "17:40-18:20"
+      },
+      {
+        "lessonNumber": 6,
+        "time": "18:20-19:00"
+      }
+    ],
+    "even": [
+      {
+        "lessonNumber": 1,
+        "time": "9:15-09:55"
+      },
+      {
+        "lessonNumber": 1,
+        "time": "9:55-10:35"
+      },
+      {
+        "lessonNumber": 2,
+        "time": "10:50-11:30"
+      },
+      {
+        "lessonNumber": 2,
+        "time": "11:30-12:10"
+      },
+      {
+        "lessonNumber": 3,
+        "time": "12:25-13:05"
+      },
+      {
+        "lessonNumber": 3,
+        "time": "13:05-13:45"
+      },
+      {
+        "lessonNumber": 4,
+        "time": "14:25-15:05"
+      },
+      {
+        "lessonNumber": 4,
+        "time": "15:05-15:45"
+      },
+      {
+        "lessonNumber": 5,
+        "time": "16:05-16:45"
+      },
+      {
+        "lessonNumber": 5,
+        "time": "16:45-17:25"
+      },
+      {
+        "lessonNumber": 6,
+        "time": "17:40-18:20"
+      },
+      {
+        "lessonNumber": 6,
+        "time": "18:20-19:00"
+      }
+    ]
+  }
+]
